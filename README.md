@@ -1,2 +1,2 @@
-# Plabety_by_Sharco
+# Planety_by_Sharco
 Bu endi boshalnishi
